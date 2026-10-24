@@ -1,0 +1,4 @@
+:HL["/_next/static/chunks/1d9bwv2vpg6qd.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":{"n":"club","t":"d","k":"dragons-moralzarzal","s":["aceptar-invitacion","acuse-privacidad","admin","api","arbitro","cambiar-contrasena-inicial","confirmar-email","deportista","design-system","entrenador","familia","login","privacidad","recuperar-contrasena","restablecer-contrasena","sin-acceso"]},"h":65632,"c":"$Q2"}]]
+0:{"b":"Jw0IIU6j2BZ0z_mL7pCkx","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
