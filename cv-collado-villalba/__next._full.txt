@@ -1,0 +1,25 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/23ie4ymkub9to.js"
+3:I[39756,["$2"],"default"]
+4:I[53536,["$2"],"default"]
+5:"/_next/static/chunks/30h1jhps5-3uq.js"
+6:I[5014,["$5"],"default"]
+a:I[97367,["$2"],"OutletBoundary"]
+b:"$Sreact.suspense"
+d:"ViewportBoundary"
+e:I[97367,["$2"],"$d"]
+10:"MetadataBoundary"
+11:I[97367,["$2"],"$10"]
+13:I[68027,[],"default",1]
+:HL["/_next/static/chunks/2kl_k-hqleybi.css","style"]
+8:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$L9",[["$","script","script-0",{"src":"/_next/static/chunks/1y7u6jl6er7u7.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0-_rku538_ty9.js","async":true,"nonce":"$undefined"}]],["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]]}],"p":false,"v":null}}]]
+7:[["children",{"s":{"n":"club","t":"d","k":"cv-collado-villalba","s":["aceptar-invitacion","acuse-privacidad","admin","api","arbitro","cambiar-contrasena-inicial","confirmar-email","deportista","design-system","entrenador","familia","liga","login","privacidad","recuperar-contrasena","restablecer-contrasena","sin-acceso"]},"h":66048,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":null},"c":"$Q8"}]]
+0:{"P":null,"c":["","cv-collado-villalba",""],"q":"","i":false,"t":{"t":{"s":"","h":131600,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2kl_k-hqleybi.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/23ie4ymkub9to.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"es","className":"_0U54wq_variable w-CWFW_variable","children":["$","body",null,{"className":"antialiased","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"flex min-h-screen items-center justify-center bg-marfil p-4","children":["$","div",null,{"className":"w-full max-w-md rounded-lg border border-line bg-surface p-6","children":["$","div",null,{"className":"flex flex-col items-center justify-center gap-4 text-center rounded-lg border border-line bg-surface px-6 py-12","children":[["$","span",null,{"aria-hidden":"true","children":["$","$L6",null,{"ref":"$undefined","icon":{"name":"compass","size":24,"node":[["circle",{"cx":"12","cy":"12","r":"10","key":"1mglay"}],["path",{"d":"m16.24 7.76-1.804 5.411a2 2 0 0 1-1.265 1.265L7.76 16.24l1.804-5.411a2 2 0 0 1 1.265-1.265z","key":"9ktpf1"}]]},"className":"text-club","size":48,"aria-hidden":"true"}]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-display text-lg font-bold uppercase text-ink md:text-2xl","children":"Página no encontrada"}],["$","p",null,{"className":"mx-auto mt-1 max-w-sm font-body text-sm text-text-secondary","children":"Revisa el enlace que te han compartido."}]]}],"$undefined"]}]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],"p":false,"v":null},"c":"$Q7"},"h":{"r":["$","$1","h",{"children":[null,["$","$Le",null,{"children":"$Lf"}],["$","$L11",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$b",null,{"name":"Next.Metadata","children":"$L12"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$13",[]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"1fLAeGHWOMweiDYnR6I5y"}
+14:"/_next/static/chunks/1y7u6jl6er7u7.js"
+15:"/_next/static/chunks/0-_rku538_ty9.js"
+16:I[38403,["$14","$15"],"default"]
+9:["$","$L16",null,{"slug":"cv-collado-villalba","pagina":"partidos"}]
+f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+17:I[27201,["$2"],"IconMark"]
+c:null
+12:[["$","title","0",{"children":"Partidos"}],["$","meta","1",{"name":"robots","content":"noindex, nofollow"}],["$","link","2",{"rel":"icon","href":"/cv-collado-villalba/favicon.png"}],["$","link","3",{"rel":"apple-touch-icon","href":"/cv-collado-villalba/apple-touch-icon.png"}],["$","$L17","4",{}]]

@@ -1,0 +1,5 @@
+:HL["/_next/static/chunks/2kl_k-hqleybi.css","style"]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":"clasificacion","h":96,"c":"$Q3"}]]
+1:[["children",{"s":{"n":"club","t":"d","k":"cv-collado-villalba","s":["aceptar-invitacion","acuse-privacidad","admin","api","arbitro","cambiar-contrasena-inicial","confirmar-email","deportista","design-system","entrenador","familia","liga","login","privacidad","recuperar-contrasena","restablecer-contrasena","sin-acceso"]},"h":65632,"c":"$Q2"}]]
+0:{"b":"1fLAeGHWOMweiDYnR6I5y","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
