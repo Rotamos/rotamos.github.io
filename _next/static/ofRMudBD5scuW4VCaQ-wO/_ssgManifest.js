@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002F[club]","\u002F[club]\u002Fclasificacion"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
